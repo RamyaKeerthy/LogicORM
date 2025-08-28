@@ -1,7 +1,7 @@
 # Logical Reasoning with Outcome Reward Models for Test-Time Scaling
 We present a set of Outcome Reward Models (ORMs) for deductive logical reasoning. We propose a novel tactic to expand the type of errors covered in the training dataset of the ORM. In particular, we propose an echo generation technique that leverages LLMs' tendency to reflect incorrect assumptions made in prompts to extract additional training data, covering previously unexplored error types. While a standard CoT chain may contain errors likely to be made by the reasoner, the echo strategy deliberately steers the model toward incorrect reasoning.
 
-![LogicORM](plots/orm-method.png)
+![LogicORM](plots/orm_method.png)
 
 ## Resources
 
