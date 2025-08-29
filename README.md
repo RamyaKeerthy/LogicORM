@@ -57,4 +57,5 @@ Plots and evaluation figures can be generated with:
 ## Citation
 If you use this repository, please cite:
 
-Thatikonda, R. K., Buntine, W., & Shareghi, E. (2025). *Logical reasoning with outcome reward models for test-time scaling*. arXiv. https://arxiv.org/abs/2508.19903
+Thatikonda, R. K., Buntine, W., & Shareghi, E. (2025). Logical reasoning with outcome reward models for test-time scaling. arXiv. https://arxiv.org/abs/2508.19903 (Accepted to EMNLP)
+
